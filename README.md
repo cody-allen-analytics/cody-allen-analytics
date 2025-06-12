@@ -33,7 +33,7 @@ I aim to do this through creating meaningful insights generated out of complex d
 
 ---
 
-## 🎾 Outside of Work
+## 🎾🚴Outside of Work
 
 When I’m not crunching numbers, you’ll find me on the tennis court, running or cycling on the trails, or being a sabermetrics nerd and tweaking my predictive MLB models!
 ---
